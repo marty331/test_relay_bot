@@ -1,0 +1,5 @@
+slack_bolt
+Flask
+uWSGI>=2,<3
+python-decouple
+aiohttp
